@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/easypaisa-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for Easypaisa mobile wallet and payments (Pakistan)",
+  "version": "1.0.1",
+  "description": "MCP server for Easypaisa — mobile wallet, payments (Pakistan)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -45,7 +45,8 @@
     "pakistan-api",
     "payments",
     "mobile-wallet",
-    "typescript"
+    "typescript",
+    "api"
   ],
   "license": "MIT",
   "repository": {
